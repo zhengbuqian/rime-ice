@@ -5,6 +5,8 @@
 # 要比共享目录的同名文件的 config_version 大才可以生效
 config_version: '2026-02-06'
 
+# 默认输入模式：false = 中文模式，true = 英文模式
+ascii_mode: false
 
 # 方案列表
 schema_list:
