@@ -27,6 +27,7 @@ switches:
   - name: ascii_punct  # 中英标点
     states: [ ¥, $ ]
   - name: traditionalization
+    reset: 0
     states: [ 简, 繁 ]
   - name: emoji
     states: [ 💀, 😄 ]
